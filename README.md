@@ -8,7 +8,7 @@
 - Exploring new frameworks, libraries, and tools that push the boundaries of web development.
 
 ### 🌱 **Currently Learning:**
-- Expanding my knowledge in **TypeScript** for scalable and maintainable codebases.
+- Expanding my knowledge in **DSA** for scalable and maintainable codebases.
 - Diving deeper into **DevOps** practices with **Docker** and **CI/CD pipelines**.
 
 ### 💬 **Looking to Collaborate On:**
